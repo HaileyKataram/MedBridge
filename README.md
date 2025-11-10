@@ -209,7 +209,7 @@ SmartHealthConnect_Rebuild/
 
 ## 👥 Developers
 
-- **K. Hailey**
+- **K.Hailey**
 - **GURRAMPATI LAVANYA** 
 
 ## 📝 License
