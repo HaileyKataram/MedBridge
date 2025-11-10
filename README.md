@@ -209,8 +209,8 @@ SmartHealthConnect_Rebuild/
 
 ## 👥 Developers
 
-- **K. Hailey** - 22MIS0156
-- **V. Karnika** - 22MIS0514
+- **K. Hailey**
+- **GURRAMPATI LAVANYA** 
 
 ## 📝 License
 
