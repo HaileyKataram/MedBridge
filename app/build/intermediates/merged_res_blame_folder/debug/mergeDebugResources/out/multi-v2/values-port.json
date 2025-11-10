@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smarthealthconnect.app-mergeDebugResources-44:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\haile\\.gradle\\caches\\9.0-milestone-1\\transforms\\59af8f1ba1ec59d846337d0368156cdd\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

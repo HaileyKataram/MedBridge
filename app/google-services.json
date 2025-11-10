@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396918031801",
+    "project_id": "smarthealthconnectrebuild",
+    "storage_bucket": "smarthealthconnectrebuild.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396918031801:android:5c001987dc977331a12268",
+        "android_client_info": {
+          "package_name": "com.smarthealthconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8Ff8yunbJ8dcVOf3ZRq2pFtEQ6k052I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

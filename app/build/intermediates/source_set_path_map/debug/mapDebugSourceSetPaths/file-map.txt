@@ -1,0 +1,50 @@
+com.smarthealthconnect.app-transition-1.5.0-0 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\0abc2ba7456c2619fa90bef347e74501\transformed\transition-1.5.0\res
+com.smarthealthconnect.app-lottie-6.3.0-1 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\154ec16c2ce174ba967f716978b6c16e\transformed\lottie-6.3.0\res
+com.smarthealthconnect.app-core-1.13.0-2 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\1e5074b4f564d5f986b806e4df13ea91\transformed\core-1.13.0\res
+com.smarthealthconnect.app-profileinstaller-1.3.1-3 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\225df50c96d166fc3a7b05ae0cc1a3a7\transformed\profileinstaller-1.3.1\res
+com.smarthealthconnect.app-firebase-common-21.0.0-4 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\2562aaa69038c1ef33989be7cc62b3b2\transformed\firebase-common-21.0.0\res
+com.smarthealthconnect.app-ads-adservices-1.0.0-beta05-5 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\2952e7067e5e429a8a0ff8c3b3a010bb\transformed\ads-adservices-1.0.0-beta05\res
+com.smarthealthconnect.app-cardview-1.0.0-6 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\2da7ae1673eb79b962408f5ed4a71e58\transformed\cardview-1.0.0\res
+com.smarthealthconnect.app-material-1.12.0-7 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\2edc5541c331802d7610c5ae7effc961\transformed\material-1.12.0\res
+com.smarthealthconnect.app-startup-runtime-1.1.1-8 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\2fe91ac3680161cae2b259959b5211ca\transformed\startup-runtime-1.1.1\res
+com.smarthealthconnect.app-play-services-auth-20.7.0-9 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\30a8b72ee2dcf7bca497416791f93a19\transformed\play-services-auth-20.7.0\res
+com.smarthealthconnect.app-browser-1.4.0-10 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\347f254e714c1590931e25a4a14b2e51\transformed\browser-1.4.0\res
+com.smarthealthconnect.app-swiperefreshlayout-1.1.0-11 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\370546309d0b271facfe65b8a0c96526\transformed\swiperefreshlayout-1.1.0\res
+com.smarthealthconnect.app-credentials-play-services-auth-1.2.0-rc01-12 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\383baee44949240643eb67c9be64a5fe\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.smarthealthconnect.app-play-services-base-18.1.0-13 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\3c47574dce74e31ef3e4c015d889b8c2\transformed\play-services-base-18.1.0\res
+com.smarthealthconnect.app-lifecycle-viewmodel-savedstate-2.6.2-14 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\49b2178eb61b06d93f5dabd8c3a0d4f8\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.smarthealthconnect.app-lifecycle-runtime-2.6.2-15 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\52f374793430a16bc3694ba628bf36f1\transformed\lifecycle-runtime-2.6.2\res
+com.smarthealthconnect.app-ads-adservices-java-1.0.0-beta05-16 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\5363e951fc100a03751eab94489bb316\transformed\ads-adservices-java-1.0.0-beta05\res
+com.smarthealthconnect.app-play-services-measurement-api-21.5.0-17 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\53a1c70751d93e55620e74803e430c59\transformed\play-services-measurement-api-21.5.0\res
+com.smarthealthconnect.app-recyclerview-1.3.2-18 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\5595cbf52ebd8c998662025aa975b5d8\transformed\recyclerview-1.3.2\res
+com.smarthealthconnect.app-viewpager2-1.1.0-beta02-19 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\58209cb8136231644f64a751f968c76e\transformed\viewpager2-1.1.0-beta02\res
+com.smarthealthconnect.app-appcompat-1.7.0-20 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\59af8f1ba1ec59d846337d0368156cdd\transformed\appcompat-1.7.0\res
+com.smarthealthconnect.app-activity-1.8.0-21 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\63552e296bc4b41d9335c3399f6f52cc\transformed\activity-1.8.0\res
+com.smarthealthconnect.app-lifecycle-viewmodel-2.6.2-22 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\63eb18ae2100c0b575316b9dbceb059f\transformed\lifecycle-viewmodel-2.6.2\res
+com.smarthealthconnect.app-core-runtime-2.2.0-23 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\66a4dedb905d476d9e44e70f577bdc10\transformed\core-runtime-2.2.0\res
+com.smarthealthconnect.app-customview-poolingcontainer-1.0.0-24 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\66ac3b1090b6acb81b4b49db8b9783ea\transformed\customview-poolingcontainer-1.0.0\res
+com.smarthealthconnect.app-play-services-basement-18.3.0-25 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\6d96edeb3da789be11b8846c7914ab09\transformed\play-services-basement-18.3.0\res
+com.smarthealthconnect.app-drawerlayout-1.1.1-26 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\701b2d7a4423a949800505edd98bef5e\transformed\drawerlayout-1.1.1\res
+com.smarthealthconnect.app-emoji2-1.3.0-27 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\780e94f363865f2e1bd6d9873d2e65e7\transformed\emoji2-1.3.0\res
+com.smarthealthconnect.app-appcompat-resources-1.7.0-28 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\895f2ccb1108166d1e7dfc3051c5a621\transformed\appcompat-resources-1.7.0\res
+com.smarthealthconnect.app-emoji2-views-helper-1.3.0-29 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\8d5233a8163481298961b87dfe99457e\transformed\emoji2-views-helper-1.3.0\res
+com.smarthealthconnect.app-lifecycle-process-2.6.2-30 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\995c9fa9edd1a06ac812c9786da7e4ea\transformed\lifecycle-process-2.6.2\res
+com.smarthealthconnect.app-constraintlayout-2.1.4-31 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\a39cf3b5e6dabad7f7dca0b0870e09d1\transformed\constraintlayout-2.1.4\res
+com.smarthealthconnect.app-fragment-1.5.4-32 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\b6315637d19b1142bbd1fd962374bf1c\transformed\fragment-1.5.4\res
+com.smarthealthconnect.app-coordinatorlayout-1.1.0-33 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\bc99b40838b97a1098d903cc1ec182ca\transformed\coordinatorlayout-1.1.0\res
+com.smarthealthconnect.app-credentials-1.2.0-rc01-34 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\cc4c5667d32170d0a2bcd2dd0ba3b9ea\transformed\credentials-1.2.0-rc01\res
+com.smarthealthconnect.app-lifecycle-livedata-core-2.6.2-35 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\e26226a757626659f41e8bcbff6ee6bf\transformed\lifecycle-livedata-core-2.6.2\res
+com.smarthealthconnect.app-core-ktx-1.13.0-36 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\e357f621913096c8701541be4e0c524f\transformed\core-ktx-1.13.0\res
+com.smarthealthconnect.app-annotation-experimental-1.4.0-37 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\e4103933cb82d85b3dc89cb835ab6021\transformed\annotation-experimental-1.4.0\res
+com.smarthealthconnect.app-lifecycle-livedata-2.6.2-38 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\e45055d9d7027859dd220afd4180a35d\transformed\lifecycle-livedata-2.6.2\res
+com.smarthealthconnect.app-firebase-messaging-24.0.0-39 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\e8e812d6dcde4391cd4fd55bb22f864f\transformed\firebase-messaging-24.0.0\res
+com.smarthealthconnect.app-savedstate-1.2.1-40 C:\Users\haile\.gradle\caches\9.0-milestone-1\transforms\f1f571d066140a7899577df45c2889cc\transformed\savedstate-1.2.1\res
+com.smarthealthconnect.app-pngs-41 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\generated\res\pngs\debug
+com.smarthealthconnect.app-res-42 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\generated\res\processDebugGoogleServices
+com.smarthealthconnect.app-resValues-43 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\generated\res\resValues\debug
+com.smarthealthconnect.app-updated_navigation_xml-44 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\generated\updated_navigation_xml\debug
+com.smarthealthconnect.app-packageDebugResources-45 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.smarthealthconnect.app-packageDebugResources-46 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.smarthealthconnect.app-debug-47 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.smarthealthconnect.app-debug-48 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\src\debug\res
+com.smarthealthconnect.app-main-49 C:\Users\haile\OneDrive\Desktop - Copy\Desktop\SmartHealthConnect_Rebuild\SmartHealthConnect_Rebuild\app\src\main\res
